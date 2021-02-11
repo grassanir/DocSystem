@@ -2,7 +2,6 @@
 
 
 void Appointment::makeAnAppointment() {
-	//alteração teste
 	system("cls");
 	//Pessoa::getName();
 	cin.ignore();
