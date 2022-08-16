@@ -12,4 +12,6 @@ Navegue pelo Menu intuitivo e faça os seguintes passos em seuquência:
 
 Em cada passo são solicitadas informações ao usuário.
 
+Curso de Engenharia Elétrica - Univerdade Federal do Paraná
+
 
